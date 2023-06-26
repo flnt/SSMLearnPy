@@ -1,0 +1,4 @@
+#data file dimensional unit (SI)
+#1 time      #2 x_stage   #3 x_center  #4 y_center  #5 width     #6 height   
+
+0            0            3.627e-07    3.76269e-08  1.27705e-07  1.27276e-07 
